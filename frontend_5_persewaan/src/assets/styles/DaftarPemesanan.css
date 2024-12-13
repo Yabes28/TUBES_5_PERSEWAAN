@@ -1,0 +1,55 @@
+/* DaftarPemesanan.css */
+
+/* Navbar */
+.navbar {
+    background-color: #333;
+}
+
+.navbar a {
+    color: white;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #f0f0f0;
+}
+
+.navbar .btn-secondary {
+    background-color: #444;
+    border-color: #444;
+}
+
+.navbar .btn-secondary:hover {
+    background-color: #555;
+    border-color: #555;
+}
+
+.table th,
+.table td {
+    text-align: center;
+}
+
+.table th {
+    color: #fff;
+}
+
+.table-responsive {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.modal-body p {
+    font-size: 1rem;
+}
+
+#profile-dropdown .dropdown-menu {
+    background-color: #333;
+}
+
+#profile-dropdown .dropdown-menu .dropdown-item {
+    color: white;
+}
+
+#profile-dropdown .dropdown-menu .dropdown-item:hover {
+    background-color: #555;
+}

@@ -1,0 +1,11 @@
+.footer {
+    background-color: #343a40; /* Warna latar belakang gelap */
+}
+
+.footer a {
+    text-decoration: none; /* Hapus garis bawah pada tautan */
+}
+
+.footer a:hover {
+    text-decoration: underline; /* Garis bawah saat hover */
+}
